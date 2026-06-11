@@ -1,7 +1,14 @@
 # William Ivy
 
-* I build at the overlap of software, electronics, real-time visuals, and scientific/industrial hardware.
-* Interests: creative coding, VJ tools, motion capture, GLSL, TouchDesigner, AI image workflows, synthesizers, microscopy, optics, 3D printing, surplus lab equipment, and hardware repair.
-* Skills: Python, C/C++, JavaScript, GitHub Actions, microcontrollers, LEDs/sensors, video/media pipelines, Blender/3D workflows, documentation, and reverse engineering.
-* I focus on practical tools, physical systems, repairable hardware, and well-documented experiments.
-* Longer project notes: [williamivy.com](https://www.williamivy.com/)
+* art × engineering
+* garage-scale science, obsolete machines, surplus lab equipment
+* real-time visuals, motion capture, VJ systems, shaders, interactive media
+* electronics, sensors, LEDs, lasers, microcontrollers, custom hardware
+* microscopy, optics, vacuum systems, radiation detection, spectroscopy
+* AI image workflows, style transfer, LoRA training, ControlNet, ComfyUI
+* synthesizers, sound design, music theory, late-90s Goa trance reconstruction
+* 3D printing, laser cutting, silicone molding, prop/object fabrication
+* tabletop systems, miniatures, cards, rules, playtesting, physical game design
+* repair, reverse engineering, documentation, obsessive build logs
+
+[williamivy.com](https://www.williamivy.com/)
