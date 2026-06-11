@@ -1,6 +1,5 @@
 # William Ivy
 
-* art × engineering
 * garage-scale science, obsolete machines, surplus lab equipment
 * real-time visuals, motion capture, VJ systems, shaders, interactive media
 * electronics, sensors, LEDs, lasers, microcontrollers, custom hardware
