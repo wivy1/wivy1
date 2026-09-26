@@ -1,6 +1,6 @@
 # Currently working on:
 
-* **Animation reconstruction:** recovering editable cel-like layers from finished animation for generative framerate enhancement and matte creation
+* **Animation reconstruction:** extracting editable cel-like layers from finished animation for generative enhancement
 * **LLM-assisted transcription:** preserving niche podcasts with highly-researched domain-aware transcription and speaker attribution 
 * **LLM fine-tuning:** local fine-tuning of open-source LLMs to reproduce Mandarin-to-English "Chinglish" patterns
 * **Electron microscopy:** restoring a JEOL JSM-5600LV scanning electron microscope to image my red blood cells in my garage
